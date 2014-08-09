@@ -40,8 +40,13 @@ Elaboración de un artículo de revisión.
 ## LECTURAS DE APOYO
 
 > Anon. n.d. “LibreOffice.” Retrieved August 8, 2014 (http://www.libreoffice.org/).
+
 > Civilstat. 2014. “Reproducible Research, Training Wheels, and Knitr | (R News & Tutorials).” Retrieved August 8, 2014 (http://www.r-bloggers.com/reproducible-research-training-wheels-and-knitr/).
+
 > Dialogic Corporation. 2010. “Introduction to Cloud Computing - 12023-Cloud-Computing-Wp.pdf.” 8. Retrieved August 8, 2014 (http://www.dialogic.com/~/media/products/docs/whitepapers/12023-cloud-computing-wp.pdf).
+
 > Neill, Ushma S. 2007. “How to Write a Scientific Masterpiece.” The Journal of clinical investigation 117(12):3599–3602. Retrieved August 8, 2014 (http://www.jci.org/articles/view/34288).
+
 > Venables, W. N., D. M. Smith, and The R Core Team. 2014. An Introduction to R. Retrieved August 8, 2014 (http://cran.r-project.org/doc/manuals/r-release/R-intro.pdf#page=1&zoom=auto,-12,848).
+
 > Wilkins, David R. n.d. “Getting Started with LaTeX.” Retrieved August 8, 2014 (http://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/).
